@@ -1,10 +1,5 @@
-# 🔬 n8n RAG Workflow Lab
-Traditional RAG that allows users to chat with large documents that exceed standard AI context windows.
-
----
-
-## 🧪 Completed Experiment: n8n RAG Workflow
-**Description:** Solves the "Context Window" problem where large documents (like complex contracts) fail due to token limits. It uses an **n8n** workflow to split documents into chunks, convert them into vector embeddings, and store them for semantic retrieval.
+## 🧪 n8n Traditional RAG Workflow
+**Description:** **n8n** workflow to split documents into chunks, convert them into vector embeddings, and store them for semantic retrieval when users query the chatbot.
 
 ### 🛠️ How it Works
 1.  **Augmentation:** Raw files are segmented and vectorized into a Simple Vector Store.
