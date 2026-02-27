@@ -1,6 +1,6 @@
 # 🔬 AI Experiments Index
 
-A growing collection of my experiments with agentic workflows 
+A growing collection of my experiments with AI / agentic workflows 
 
 | Experiment / Agent | Description |
 | :--- | :--- |
