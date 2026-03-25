@@ -1,6 +1,6 @@
-# 🕵️‍♂️ Claude Code Research Analyst
+# 🕵️‍♂️ Claude Code - Company Intelligence Report
 
-A specialized configuration for Claude Code designed to perform structured company and market research. 
+Automates report generation to get an overview of a company's business model and market positioning.
 
 ## 🛠 Project Rationale
 This framework was developed to address common limitations found in standard LLM research tasks. By utilizing a two-phase "Architect-Execute" workflow, the system focuses on three core technical objectives:
