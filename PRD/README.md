@@ -1,9 +1,17 @@
-# PRD Generator 
+# PRD Generator (Experiment only)
 
-I built this to test Claude’s ability to synthesise and structure a PRD based on provided internal context and external signals. 
-What it does: Generates a structured first draft based on provided internal and external research.
-What it doesn't do: Replace strategic thinking.
-The Goal: I’m a firm believer that you can’t generate a PRD with a click of a button. A great PRD needs deep understanding of internal goals and strategic alignment. This project is my way of testing where AI can speed things up (summarization, structure, initial ideation) while maintaining the role of the PM to evaluate and shape the output.
+I built this to test Claude’s ability to synthesize and structure a Product Requirements Document (PRD) by connecting internal company context with external market signals. 
+
+### What it does
+Generates a structured **"Version 0"** draft based on provided internal research and external market data.
+
+### The Thinking Behind the Experiment
+I am a firm believer that you cannot generate a meaningful PRD with the click of a button. A great PRD requires a deep understanding of internal goals, alignment with broader company strategies, and iteration.
+
+* **What this is:** A way to test where AI can speed things up (summarization, structure, and initial ideation).
+* **What this isn't:** A replacement for strategic thinking. 
+
+**The Goal:** To explore how AI can handle the heavy lifting of documentation while maintaining the PM's role in defining the direction and then evaluating the final output. 
 
 ### Company Context Files (`company-context/`)
 
