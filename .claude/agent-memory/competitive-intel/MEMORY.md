@@ -1,0 +1,4 @@
+- [LegalGraph Competitive Context](project_legalgraph_context.md) — client profile, competitors monitored, LegalGraph's core differentiation vs Ironclad/Kira/LawGeex
+- [Reliable LegalTech Intel Sources](reference_sources.md) — publications and URLs that consistently surface legaltech competitor news
+- [Historical Threat Levels](project_threat_history.md) — per-competitor threat ratings across reporting cycles for trend analysis
+- [Competitor Persistent Patterns](reference_competitor_patterns.md) — recurring strengths, weaknesses, and positioning observed across multiple research sessions
